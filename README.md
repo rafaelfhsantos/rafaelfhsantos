@@ -4,7 +4,9 @@ Seja bem vindo(a) ao meu github. Sou desenvolvedor FrontEnd formado pela Kenzie 
 
 Meus principais projetos estão [aqui](https://portfolio-ochre-beta-95.vercel.app/)
 
-[Meu Linkedin](https://www.linkedin.com/in/rafael-francisco-halquema-dos-santos-398443137/)
+[Meu Linkedin](https://www.linkedin.com/in/rafael-francisco-halquema-dos-santos/)
+
+Email: rfhsantos@hotmail.com
 
 As tecnologias que mais domino no momento são:
 CSS3, HTML5, JavaScript, ReactJS, GIT, Scrum, Context API, Redux, .NET 5, SQL Server e API Rest
