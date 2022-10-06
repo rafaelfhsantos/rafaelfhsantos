@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Seja bem vindo(a) ao meu github. Sou desenvolvedor FrontEnd formado pela Kenzie Academy Brasil. 
+Seja bem vindo(a) ao meu github. Sou desenvolvedor Full Stack formado pela Kenzie Academy Brasil. 
 
 Meus principais projetos estão [aqui](https://portfolio-ochre-beta-95.vercel.app/)
 
@@ -10,14 +10,11 @@ Email: rfhsantos@hotmail.com
 
 ### As tecnologias que mais domino no momento são:
 
-FrontEnd: CSS3, HTML5, JavaScript, ReactJS, Context API e Redux
+FrontEnd: CSS3, HTML5, JavaScript, React, Context API, Redux e Styled Components
 
-BackEnd: Node.JS, .NET C#, Microsoft SQL Server, Postgress e MySQL
+BackEnd: Node.JS, C#, .NET, Python, Django, Microsoft SQL Server, Postgress e MySQL
 
 Outras tecnologias: GIT, Scrum e Docker 
-
-
-Atualmente estou me formando FullStack pelo estudo de backend pela Kenzie também através das tecnologias Python e Django!
 
 <!--
 **rafaelfhsantos/rafaelfhsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
